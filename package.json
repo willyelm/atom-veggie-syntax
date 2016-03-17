@@ -8,6 +8,7 @@
     "theme"
   ],
   "repository": "https://github.com/willyelm/atom-veggie-syntax",
+  "author": "Williams Medina <williams.medinaa@gmail.com>",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
